@@ -4,7 +4,7 @@
 
 Решение:
 
-https://github.com/unixlinuxgeek/gopl/blob/db35830e1497be2da8dba44c3e1abe263bb22a7d/strutil/strutil.go#L1-L26
+https://github.com/unixlinuxgeek/strutil/blob/d9bca2cf8c69db75f11b9acb28066c412dfac2b5/strutil.go#L1-L26
 
 Модульные тесты:
 ```
